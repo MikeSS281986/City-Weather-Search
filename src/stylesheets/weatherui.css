@@ -1,0 +1,42 @@
+/* General Stylings for the UI */
+
+body {
+  background-image: url(/images/sky.jpg);
+  background-size: cover;
+}
+
+.weather-font {
+  font-size: 4vh;
+  color: white;
+}
+
+.container {
+  position: relative;
+  top: 25vh;
+  text-align: center;
+  padding-top: 2px;
+}
+
+.city-label {
+  font-size: 3vh;
+  margin: 10px 0;
+  color: white;
+}
+
+.degrees {
+  font-size: 10vh;
+  color: white;
+}
+
+.city-name {
+  font-size: 4vh;
+}
+
+a {
+  margin-top: 20px;
+}
+
+p {
+  font-size: 2vh;
+  color: rgb(255, 255, 255);
+}
