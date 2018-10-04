@@ -1,5 +1,5 @@
 # City-Weather-Search
-Built entirely in VUE.js, City Weatrher Search is a serach engine that finds current temperature for US based cities. Utilizing [Open Weather API](https://openweathermap.org/api).
+Built entirely in VUE.js, City Weather Search is a serach engine that finds current temperature for US based cities. Utilizing [Open Weather API](https://openweathermap.org/api).
 
 -Accomplishments building this application
   * Used Vue.js to build app.
