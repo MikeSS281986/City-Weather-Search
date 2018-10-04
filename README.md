@@ -10,3 +10,7 @@ Built entirely in VUE.js, City Weather Search is a serach engine that finds curr
   * Used dotenv-webpack to hide my API key in a secret .env file. 
  
  Successful build! :)
+ 
+ Here is the app UI in all it's glory!
+ 
+ ![City Weather Search](/images/weathersearch.png)
