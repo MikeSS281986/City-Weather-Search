@@ -13,6 +13,6 @@ Built entirely in VUE.js, City Weather Search is a serach engine that finds curr
  
  Here is the app UI in all it's glory!
  
- *Note This is in developement not in production...yet. :)*
+ *Note This is in development not in production...yet. :)*
  
  ![City Weather Search](/images/weathersearch.png)
