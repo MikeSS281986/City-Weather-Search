@@ -8,6 +8,7 @@ Built entirely in VUE.js, City Weather Search is a search engine that finds curr
   * Officially and finally used webpack to combine dependencies and my js file
   * Made AJAX requests using Fetch API
   * Used dotenv-webpack to hide my API key in a secret .env file. 
+  * Used an alternative to bootstrap for responsiveness; [bulma](https://bulma.io/). 
  
  Successful build! :)
  
